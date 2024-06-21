@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
+/* Additional CSS styles can be added here */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
+
+ul.navigation-box li:nth-child(3):hover ul.fgsdf {
+  display: block !important; /* Display dropdown on hover */
+}
+.swiper-button-prev {
+  display: none !important;
+}
+.swiper-button-next {
+  display: none !important;
+}
+.active-page {
+  color: black;
+  font-weight: bold;
+}
+.folksco-color {
+  color: #ed7936;
+}
+div {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+}
+.about-image {
+  background: url(https://www.mchoiceinterior.com/images/slider/slider5.jpg);
+}
+.row_list_version_3hdfhdf {
+  position: absolute;
+  top: -225px;
+  background: #0000003d;
+  width: 100%;
+  height: 195px;
+}
+
+link.kela {
+  position: relative;
+  width: 100%;
+  display: block;
+  top: 0;
+}
+
+img.imd-sjafdh {
+  position: relative;
+  top: 50px;
+}
+span.ant-input-affix-wrapper.css-dev-only-do-not-override-1okl62o.ant-input-outlined {
+  flex-direction: row-reverse;
+}
+:where(.css-dev-only-do-not-override-1okl62o).ant-input-outlined:focus,
+:where(.css-dev-only-do-not-override-1okl62o).ant-input-outlined:focus-within {
+  border: 3px solid #ed7936;
+}
+div {
+  scroll-behavior: smooth;
+}
+
+.dgdg:hover .adad {
+  color: #ed7936;
+}
+.dgdg:hover .drdr {
+  transform: scale(1.5);
+}
+.ant-image.css-dev-only-do-not-override-1r287do {
+  margin-bottom: 20px;
+}
+.ant-image-mask {
+  border-radius: 10px;
+}
+img.ant-image-img.border-r-10.css-dev-only-do-not-override-1r287do {
+  border-radius: 10px;
+}
+img.ant-image-img.css-dev-only-do-not-override-1r287do {
+  border-radius: 10px;
+}
+.gdfg:hover .dasda {
+  background: white;
+  font-weight: bold;
+  color: #ed7936;
+  border: 1px solid #ed7936;
+  border-top: unset;
+}
+.swiper-pagination-bullet-active {
+  opacity: var(--swiper-pagination-bullet-opacity, 1);
+  background: #ed7936 !important;
+}
+body.__className_aaf875 {
+  background: url("/_next/static/media/web-background-image.361f8074.jpg");
+  background-size: cover;
+  background-position: center;
+}
+.sc-1au8ryl-0.dkuywW {
+  display: none;
+}
