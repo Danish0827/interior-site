@@ -52,7 +52,6 @@ const Footer = () => {
       document.body.removeChild(script);
     };
   }, []);
-
   return (
     <div className="block bg-white">
       <div className="lg:px-10">
